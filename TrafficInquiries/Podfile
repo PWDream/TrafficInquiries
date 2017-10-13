@@ -1,0 +1,21 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.0'
+
+target 'TrafficInquiries' do
+  use_frameworks!
+  
+  pod 'Alamofire'
+  pod 'TPKeyboardAvoiding'
+  pod 'PullToRefresher'
+   
+  target 'TrafficInquiriesTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'TrafficInquiriesUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
