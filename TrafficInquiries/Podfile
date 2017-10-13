@@ -7,6 +7,7 @@ target 'TrafficInquiries' do
   pod 'Alamofire'
   pod 'TPKeyboardAvoiding'
   pod 'PullToRefresher'
+  pod 'RealmSwift'
    
   target 'TrafficInquiriesTests' do
     inherit! :search_paths
