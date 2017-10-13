@@ -1,12 +1,18 @@
 PODS:
   - Alamofire (4.5.1)
+  - PullToRefresher (2.0.2)
+  - TPKeyboardAvoiding (1.3.1)
 
 DEPENDENCIES:
   - Alamofire
+  - PullToRefresher
+  - TPKeyboardAvoiding
 
 SPEC CHECKSUMS:
   Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  PullToRefresher: 5e101a8c3523e67ee0291375ba932ef59e0853c2
+  TPKeyboardAvoiding: 0d6af20e95e2850f4c621841225b59ec7d8dd852
 
-PODFILE CHECKSUM: a43ecf8aa753233b8e352ddde700713919eba91c
+PODFILE CHECKSUM: 745a1e2e79616e8cfad0059c7fde737f2d18a439
 
 COCOAPODS: 1.1.1
