@@ -8,6 +8,7 @@ target 'TrafficInquiries' do
   pod 'TPKeyboardAvoiding'
   pod 'PullToRefresher'
   pod 'RealmSwift'
+  pod 'ReachabilitySwift'
    
   target 'TrafficInquiriesTests' do
     inherit! :search_paths

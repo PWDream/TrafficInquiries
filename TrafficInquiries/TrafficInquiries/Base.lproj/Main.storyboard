@@ -58,11 +58,11 @@
             </objects>
             <point key="canvasLocation" x="1350" y="-829"/>
         </scene>
-        <!--Item-->
+        <!--Navigation Controller-->
         <scene sceneID="2Wt-6N-2jD">
             <objects>
                 <navigationController id="dzj-Yu-P27" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="kij-Iy-T2f"/>
+                    <tabBarItem key="tabBarItem" systemItem="featured" id="kij-Iy-T2f"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="I9I-wb-Y8l">
                         <rect key="frame" x="0.0" y="20" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -104,11 +104,11 @@
             </objects>
             <point key="canvasLocation" x="1350" y="-72"/>
         </scene>
-        <!--Item-->
+        <!--Navigation Controller-->
         <scene sceneID="mBf-fA-1kg">
             <objects>
                 <navigationController id="Ibw-5b-78L" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="RYu-is-0LL"/>
+                    <tabBarItem key="tabBarItem" systemItem="more" id="RYu-is-0LL"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="i7Q-ez-RWN">
                         <rect key="frame" x="0.0" y="20" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -150,11 +150,11 @@
             </objects>
             <point key="canvasLocation" x="1350" y="632"/>
         </scene>
-        <!--Item-->
+        <!--Navigation Controller-->
         <scene sceneID="e1k-wY-ubJ">
             <objects>
                 <navigationController id="Atb-1m-oSV" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="nVt-9L-Y5h"/>
+                    <tabBarItem key="tabBarItem" systemItem="recents" id="nVt-9L-Y5h"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="XMt-ya-lo8">
                         <rect key="frame" x="0.0" y="20" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -196,11 +196,11 @@
             </objects>
             <point key="canvasLocation" x="1350" y="1324"/>
         </scene>
-        <!--Item-->
+        <!--Navigation Controller-->
         <scene sceneID="gUD-TB-2bZ">
             <objects>
                 <navigationController id="Gq2-2c-nFA" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="c38-Z5-OZN"/>
+                    <tabBarItem key="tabBarItem" systemItem="contacts" id="c38-Z5-OZN"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Ngl-wk-Xf4">
                         <rect key="frame" x="0.0" y="20" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
